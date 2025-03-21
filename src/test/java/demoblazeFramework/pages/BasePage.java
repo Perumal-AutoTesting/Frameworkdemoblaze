@@ -19,6 +19,8 @@ public class BasePage {
 	@AfterClass
 	public void tearDown() {
 		BrowserFactory.closeBrowser(driver);
+		
+		System.out.println("Sample");
 	}
 
 }
