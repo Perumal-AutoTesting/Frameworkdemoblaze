@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-28T13:50:51 IST" name="Suite" finished-at="2025-02-28T13:51:12 IST" duration-ms="21682">
+    <groups>
+    </groups>
+    <test started-at="2025-02-28T13:50:51 IST" name="Test" finished-at="2025-02-28T13:51:12 IST" duration-ms="21682">
+      <class name="demoblazeFramework.testcases.DeleteFromCartDemoblaze">
+        <test-method is-config="true" signature="setup()[pri:0, instance:demoblazeFramework.testcases.DeleteFromCartDemoblaze@537f60bf]" started-at="2025-02-28T13:50:51 IST" name="setup" finished-at="2025-02-28T13:50:55 IST" duration-ms="4649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="deletingSingleProductFromCart()[pri:0, instance:demoblazeFramework.testcases.DeleteFromCartDemoblaze@537f60bf]" started-at="2025-02-28T13:50:55 IST" name="deletingSingleProductFromCart" finished-at="2025-02-28T13:51:03 IST" duration-ms="7173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletingSingleProductFromCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:demoblazeFramework.testcases.DeleteFromCartDemoblaze@537f60bf]" started-at="2025-02-28T13:51:03 IST" name="tearDown" finished-at="2025-02-28T13:51:03 IST" duration-ms="405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demoblazeFramework.testcases.DeleteFromCartDemoblaze -->
+      <class name="demoblazeFramework.testcases.AddToCartDemoblaze">
+        <test-method is-config="true" signature="setup()[pri:0, instance:demoblazeFramework.testcases.AddToCartDemoblaze@38cee291]" started-at="2025-02-28T13:51:03 IST" name="setup" finished-at="2025-02-28T13:51:06 IST" duration-ms="2652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addingSingleProductToCart()[pri:0, instance:demoblazeFramework.testcases.AddToCartDemoblaze@38cee291]" started-at="2025-02-28T13:51:06 IST" name="addingSingleProductToCart" finished-at="2025-02-28T13:51:12 IST" duration-ms="6241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingSingleProductToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:demoblazeFramework.testcases.AddToCartDemoblaze@38cee291]" started-at="2025-02-28T13:51:12 IST" name="tearDown" finished-at="2025-02-28T13:51:12 IST" duration-ms="470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demoblazeFramework.testcases.AddToCartDemoblaze -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
