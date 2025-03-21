@@ -20,7 +20,7 @@ public class BasePage {
 	public void tearDown() {
 		BrowserFactory.closeBrowser(driver);
 		
-		System.out.println("Sample");
+	
 	}
 
 }
