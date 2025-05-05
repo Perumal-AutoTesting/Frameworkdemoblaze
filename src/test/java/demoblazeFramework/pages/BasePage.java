@@ -11,7 +11,7 @@ public class BasePage {
 	public WebDriver driver;
 
 	@BeforeClass
-	public void setup() {
+	public void setUp() {
 
 		driver = BrowserFactory.startBrowser("chrome", "https://www.demoblaze.com", driver);
 	}
